@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikka</h1>
-<h1 align="center">Frontend Developer</h1>
+<h2 align="center">Frontend Developer</h2>
 
 - 🌱 I’m currently learning **VueJs**
 
