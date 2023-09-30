@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **VueJs**
 
-- 👨‍💻 All of my projects are available at [nikkaalviar](.nikkaalviar.ca](https://www.nikkaalviar.ca)
+- 👨‍💻 All of my projects are available at [nikkaalviar](https://www.nikkaalviar.ca)
 
 - 📫 How to reach me **nikka_alviar@outlook.com**
 
