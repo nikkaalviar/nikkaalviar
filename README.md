@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikka</h1>
-<h2 align="center">Frontend Developer</h2>
+<h1 align="left">Hi 👋, I'm Nikka</h1>
+<h2 align="left">Frontend Developer</h2>
 
 - 👨‍💻 All of my projects are available at [nikkaalviar](https://www.nikkaalviar.ca)
 
