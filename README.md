@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikka</h1>
 <h2 align="center">Frontend Developer</h2>
 
-- 🌱 I’m currently learning **VueJs**
-
 - 👨‍💻 All of my projects are available at [nikkaalviar](https://www.nikkaalviar.ca)
 
 - 📫 How to reach me **nikka_alviar@outlook.com**
+
+- 🌱 I’m currently learning **VueJs**
 
 - ⚡ Fun fact **I know Full Stack Development but I am more drawn into FrontEnd Development**
 
